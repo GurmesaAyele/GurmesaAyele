@@ -10,9 +10,24 @@
 
 - 🤝 I'm looking for help with **learning system design**
 
-- 💬 Ask me about **React (Vite + TypeScript), Node.js,TypeScript,Django REST Framework,Full-stack web development,MySQL, Git & GitHub,Java,Android app development (Flutter),Dart,Fast API,Python,...**
+- 💬 Ask me about React (Vite + TypeScript), Node.js,TypeScript,Django REST Framework,Full-stack web development,MySQL, Git & GitHub,Java,Android app development (Flutter),Dart,Fast API,Python.
+- I love turning complex problems into **clean, user-friendly solutions
 
-- 📫 How to reach me **gurmesaayele49@gmail.com**
+👋 About Me
+
+Full-Stack Developer | Flutter & Android | React & Django REST API  
+Building **beautiful, efficient, and scalable apps**.  
+Currently a **Software Engineering student at Wachemo University**.  
+Always exploring new technologies and improving my skills.
+
+
+
+
+- How to Reach Me
+
+- Email: **[gurmesaayele49@gmail.com](mailto:gurmesaayele49@gmail.com)**  
+- Telegram: [@Grum_21](https://t.me/Grum_21)  
+
 
 - ⚡ Fun fact **I learn new technologies by building real projects, not just tutorials.
 **
