@@ -109,7 +109,7 @@ Always exploring new technologies and improving my skills.
 </p>
 
 
-<img src="https://ghchart.rshah.org/GurmesaAyele?bg_color=0D1117&color=1DB954&line=FFFFFF" alt="GitHub Contributions"/>
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -120,5 +120,14 @@ Always exploring new technologies and improving my skills.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurmesaAyele&layout=compact&theme=tokyonight" alt="Top Languages"/>
 
 </p>
+
+---
+
+### 📈 Contribution Activity
+
+<img src="https://ghchart.rshah.org/GurmesaAyele?bg_color=0D1117&color=1DB954&line=FFFFFF" alt="GitHub Contributions"/>
+
+---
+
 
 
