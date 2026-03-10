@@ -24,27 +24,101 @@ Currently a **Software Engineering student at Wachemo University**, constantly i
 
 #### 💻 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,ts,nextjs,tailwind,angular" />
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+</a>
+
+<a href="https://vitejs.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vite" width="45"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ts" width="45"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
+</a>
+
+<a href="https://angular.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=angular" width="45"/>
+</a>
 </p>
+
+---
 
 #### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,express,postgres,mysql" />
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=django" width="45"/>
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=flask" width="45"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" width="45"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postgres" width="45"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+</a>
 </p>
+
+---
 
 #### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,java" />
+<a href="https://flutter.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=flutter" width="45"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" width="45"/>
+</a>
 </p>
+
+---
 
 #### 🔗 API Integration
 <p>
-  <img src="https://skillicons.dev/icons?i=postman" />
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman" width="45"/>
+</a>
 </p>
 
-#### 🛠 Tools & Development Environment
+---
+
+#### 🛠 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,docker,firebase,git,github" />
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" width="45"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=firebase" width="45"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
+</a>
 </p>
 
 ## 📊 GitHub Statistics
