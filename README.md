@@ -22,25 +22,30 @@ Currently a **Software Engineering student at Wachemo University**, constantly i
 
 ### 🧠 My Development Focus
 
-**Frontend Development**
-- Building modern interfaces using **React, Next.js, Vite, TypeScript, Tailwind, and Angular**
-- Creating **fast, responsive, and scalable UI systems**
+#### 💻 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,ts,nextjs,tailwind,angular" />
+</p>
 
-**Backend Development**
-- Designing **RESTful APIs and scalable backend services**
-- Working with **Django, FastAPI, Flask, Express.js**
-- Managing data using **PostgreSQL and MySQL**
+#### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,express,postgres,mysql" />
+</p>
 
-**Mobile Development**
-- Building **Android and cross-platform apps** using **Flutter and Java**
+#### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,java" />
+</p>
 
-**API Integration**
-- Integrating **third-party services, REST APIs, and external platforms** into applications
+#### 🔗 API Integration
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
 
-**Developer Tools**
-- Working with **VS Code, Docker, Firebase, Git, and GitHub** for development and deployment
-
----
+#### 🛠 Tools & Development Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,docker,firebase,git,github" />
+</p>
 
 ## 📊 GitHub Statistics
 
