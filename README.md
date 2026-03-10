@@ -1,13 +1,9 @@
-# Hi 👋, I'm Gurmesa Ayele
-
-### A passionate developer
+ Hi 👋, I'm Gurmesa Ayele
+ A passionate developer
 
 - 🔭 I'm currently working on **A Full Stack project**
-
 - 🌱 I'm currently learning **Software Engineering**
-
 - 👯 I'm looking to collaborate on **open source project**
-
 - 🤝 I'm looking for help with **learning system design**
 
 - 💬 Ask me about React (Vite + TypeScript), Node.js,TypeScript,Django REST Framework,Full-stack web development,MySQL, Git & GitHub,Java,Android app development (Flutter),Dart,Fast API,Python.
@@ -19,7 +15,6 @@ Full-Stack Developer | Flutter & Android | React & Django REST API
 Building **beautiful, efficient, and scalable apps**.  
 Currently a **Software Engineering student at Wachemo University**.  
 Always exploring new technologies and improving my skills.
-
 
 
 
@@ -118,19 +113,13 @@ Always exploring new technologies and improving my skills.
 ## 📊 GitHub Statistics
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GurmesaAyele&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurmesaAyele&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurmesaAyele&layout=compact&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GurmesaAyele&theme=tokyo-night)
-
-
-<!-- Activity Graph (Self-hosted alternative) -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=GurmesaAyele&theme=react-dark&hide_border=true)
-
 
 ![GitHub Contributions](https://ghchart.rshah.org/GurmesaAyele?bg_color=0D1117&color=1DB954&line=FFFFFF)
 
 ![GitHub followers](https://img.shields.io/github/followers/GurmesaAyele?style=social)
 ![GitHub repo stars](https://img.shields.io/github/stars/GurmesaAyele?style=social)
-
-
 
