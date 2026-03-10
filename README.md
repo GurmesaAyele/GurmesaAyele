@@ -109,6 +109,8 @@ Always exploring new technologies and improving my skills.
 </p>
 
 
+<img src="https://ghchart.rshah.org/GurmesaAyele?bg_color=0D1117&color=1DB954&line=FFFFFF" alt="GitHub Contributions"/>
+
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=GurmesaAyele&theme=tokyonight" alt="GitHub Streak"/>
